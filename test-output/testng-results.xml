@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[browser is launching]]>
+    </line>
+    <line>
+      <![CDATA[clicking on female button]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[selecting age from dropDown]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[entering zipcode]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[entering mobNum]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[fetching result from text]]>
+    </line>
+    <line>
+      <![CDATA[fetching result from banner]]>
+    </line>
+    <line>
+      <![CDATA[TC is passed]]>
+    </line>
+    <line>
+      <![CDATA[taking ss]]>
+    </line>
+    <line>
+      <![CDATA[saving ss atC:\Users\Dell\Desktop\velocity\ss_coverfox_TC_555_1970.01.01.05.30.00.png]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+    <line>
+      <![CDATA[browser is launching]]>
+    </line>
+    <line>
+      <![CDATA[selecting gender]]>
+    </line>
+    <line>
+      <![CDATA[clicking on next button]]>
+    </line>
+    <line>
+      <![CDATA[selecting age from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[click on next button]]>
+    </line>
+    <line>
+      <![CDATA[entering zipcode]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[entering mobNumber]]>
+    </line>
+    <line>
+      <![CDATA[reading data from excel]]>
+    </line>
+    <line>
+      <![CDATA[clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[displaying error msg]]>
+    </line>
+    <line>
+      <![CDATA[closing browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-04T10:41:24 IST" name="Suite" finished-at="2024-01-04T10:42:45 IST" duration-ms="81609">
+    <groups>
+    </groups>
+    <test started-at="2024-01-04T10:41:24 IST" name="Test" finished-at="2024-01-04T10:42:45 IST" duration-ms="81609">
+      <class name="coverFox_Test.Validate_result_for_healthCare">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:coverFox_Test.Validate_result_for_healthCare@609e8838]" started-at="2024-01-04T10:41:24 IST" name="openBrowser" finished-at="2024-01-04T10:41:39 IST" duration-ms="15402" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="enterRequiredDetails()[pri:0, instance:coverFox_Test.Validate_result_for_healthCare@609e8838]" started-at="2024-01-04T10:41:39 IST" name="enterRequiredDetails" finished-at="2024-01-04T10:41:52 IST" duration-ms="12527" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicking on female button]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[selecting age from dropDown]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[entering zipcode]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[entering mobNum]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterRequiredDetails -->
+        <test-method signature="validateResultFromTextAndBanner()[pri:0, instance:coverFox_Test.Validate_result_for_healthCare@609e8838]" started-at="2024-01-04T10:41:52 IST" name="validateResultFromTextAndBanner" finished-at="2024-01-04T10:42:14 IST" duration-ms="22051" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[fetching result from text]]>
+            </line>
+            <line>
+              <![CDATA[fetching result from banner]]>
+            </line>
+            <line>
+              <![CDATA[TC is passed]]>
+            </line>
+            <line>
+              <![CDATA[taking ss]]>
+            </line>
+            <line>
+              <![CDATA[saving ss atC:\Users\Dell\Desktop\velocity\ss_coverfox_TC_555_1970.01.01.05.30.00.png]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateResultFromTextAndBanner -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:coverFox_Test.Validate_result_for_healthCare@609e8838]" started-at="2024-01-04T10:42:14 IST" name="closeTheBrowser" finished-at="2024-01-04T10:42:19 IST" duration-ms="5379" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- coverFox_Test.Validate_result_for_healthCare -->
+      <class name="coverFox_Test.Validate_errorMsg_for_Pincode_Field">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:coverFox_Test.Validate_errorMsg_for_Pincode_Field@305ffe9e]" started-at="2024-01-04T10:42:19 IST" name="openBrowser" finished-at="2024-01-04T10:42:25 IST" duration-ms="5794" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launching]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="addingDetails()[pri:0, instance:coverFox_Test.Validate_errorMsg_for_Pincode_Field@305ffe9e]" started-at="2024-01-04T10:42:25 IST" name="addingDetails" finished-at="2024-01-04T10:42:37 IST" duration-ms="11796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[selecting gender]]>
+            </line>
+            <line>
+              <![CDATA[clicking on next button]]>
+            </line>
+            <line>
+              <![CDATA[selecting age from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[click on next button]]>
+            </line>
+            <line>
+              <![CDATA[entering zipcode]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[entering mobNumber]]>
+            </line>
+            <line>
+              <![CDATA[reading data from excel]]>
+            </line>
+            <line>
+              <![CDATA[clicking on continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addingDetails -->
+        <test-method signature="validateErrorMsgForPincodeIsDisplayed()[pri:0, instance:coverFox_Test.Validate_errorMsg_for_Pincode_Field@305ffe9e]" started-at="2024-01-04T10:42:37 IST" name="validateErrorMsgForPincodeIsDisplayed" finished-at="2024-01-04T10:42:42 IST" duration-ms="5136" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[displaying error msg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateErrorMsgForPincodeIsDisplayed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFox_Test.Validate_errorMsg_for_Pincode_Field@305ffe9e]" started-at="2024-01-04T10:42:42 IST" name="closeBrowser" finished-at="2024-01-04T10:42:45 IST" duration-ms="3422" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[closing browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- coverFox_Test.Validate_errorMsg_for_Pincode_Field -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

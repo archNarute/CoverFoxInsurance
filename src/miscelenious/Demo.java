@@ -3,7 +3,7 @@ package miscelenious;
 public class Demo {
 
 	public static void main(String[] args) {
-		System.out.println("hi good morning");
+		System.out.println("work is completed");
 
 	}
 
